@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking <br>👯 I’m looking to collaborate on Java, ReactJS<br>🤝 I’m looking for help with getting a Full-Time Opportunities<br>🌱 I’m currently learning System Design and DSA(for life :P)<br>💬 Ask me about Anime, Cricket, Badminton<br>
+🔭 I’m currently looking for a Full Time opportunity as a Backend Developer or a Full Stack Developer <br>👯 I’m looking to collaborate on Java, ReactJS<br>🌱 I’m currently learning System Design and DSA(for life :P)<br>💬 Ask me about Anime, Cricket, Badminton<br>
 
 
 ## 🌐 Socials:
