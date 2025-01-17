@@ -2,7 +2,7 @@
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=40&duration=5000&color=33FF33&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+AbhiGoku;Welcome+to+my+GitHub+profile!;Let's+explore+code+together!" alt="Typing SVG" />
   </h1>
-  <img src="luffy.gif" alt="Gaming GIF" width="400" />
+  <img src="luffy.gif" alt="Gaming GIF" width="200" />
 </div>
 
 ---
@@ -46,5 +46,3 @@
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AbhiGoku&theme=nord" alt="GitHub Trophies" /> </div>
 ### ✍️ Random Dev Quote:
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Dev Quote" /> </div>
-### 🔝 Top Contributed Repos:
-<div align="center"> <!-- Replace with your top repositories --> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiGoku)](https://github.com/anuraghazra/github-readme-stats) </div>
