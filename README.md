@@ -1,8 +1,8 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+AbhiGoku;Welcome+to+my+GitHub+profile!;Let's+explore+code+and+games+together!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=40&duration=5000&color=33FF33&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+AbhiGoku;Welcome+to+my+GitHub+profile!;Let's+explore+code+together!" alt="Typing SVG" />
   </h1>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Gaming GIF" width="400" />
+  <img src="luffy.gif" alt="Gaming GIF" width="400" />
 </div>
 
 ---
@@ -18,7 +18,7 @@
 
 ## 🌐 Connect with Me:
 - [LinkedIn](#)  
-*(Add your LinkedIn URL here)*
+*https://www.linkedin.com/in/abhishek-l-s/*
 
 ---
 
@@ -40,21 +40,11 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=black)
 
 ---
-
-## 🎮 Gaming Highlights:
-### 🕹️ My Gaming-Inspired Projects:
-1. **[Game Mechanics Visualizer](#)**: A project showcasing how different game mechanics work using JavaScript and React.
-2. **[Multiplayer Profile Game Integration](#)**: Inspired by [Profile Games](#), this project customizes multiplayer games using GitHub profiles.
-
-### 🧩 Fun Gaming Features on My Profile:
-- 🐍 *GitHub Contribution Snake*: Watch my contributions come alive!
-<div align="center"> <img src="https://raw.githubusercontent.com/AbhiGoku/AbhiGoku/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" /> </div> ```
-♟️ Interactive Chess: Play chess directly on my profile using GitHub Actions! (Inspired by @timburgan)
-📊 GitHub Stats:
+### 📊 GitHub Stats:
 <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiGoku&theme=github_dark" alt="GitHub Stats" /> </div>
-🏆 GitHub Trophies:
+### 🏆 GitHub Trophies:
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AbhiGoku&theme=nord" alt="GitHub Trophies" /> </div>
-✍️ Random Dev Quote:
+### ✍️ Random Dev Quote:
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Dev Quote" /> </div>
-🔝 Top Contributed Repos:
+### 🔝 Top Contributed Repos:
 <div align="center"> <!-- Replace with your top repositories --> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiGoku)](https://github.com/anuraghazra/github-readme-stats) </div>
